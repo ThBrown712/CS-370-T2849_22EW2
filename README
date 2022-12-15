@@ -1,1 +1,19 @@
+Q1: Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
+A1: The vast majority of the code was provided for this project. This included the GameExperience and TreasureMaze files. This code include the creation of the maze, providing the state of the maze, the actions available to take and how those actions would update the maze, the rewards for navigating the maze, how to store the previous experience from navigating the maze, etc. Some of the AI was also created, and my primary contribution was to setup the training of the AI while the game was running. This included correctly determining the win rate and win history to print as the training was ongoing.
+
+
+Q2: Connect your learning from throughout this course to the larger field of computer science:
+What do computer scientists do and why does it matter?
+
+A2: Computer scientists design and develop software in order to solve problems. This can include problems within busineses, research, or society. It is important for computer scientists to focus on the interaction of humans and the software they develop. This is to ensure the solutions they reach are correct and reproducable, as well as to help ensure ethics are followed. As we move into the future and more AI and machine learning is utilized, our understanding of how these systems function will be incredibly important. For example, machine learning is being used to develop self driving cars. If the self driving car gets into an accident, it would be very much in our best interest to determine why the software made the decision that lead to the accident. This can provide us input on how it is trained and other potential issues. 
+
+
+Q3: How do I approach a problem as a computer scientist?
+
+A3: As a computer scientist, the first step is to understand the problem and look at different approaches to resolving it. As we have discovered in this course, there are many different ways to approach the same problem. It is also important to understand the ethical implications of the problem and the solution proposed. We need to keep in mind how much data we are using and if we are overengineering the solution. When we look at the pathfinding example, we could very easily train the AI for over one hundred thousand games, but is that really necessary? If we use a different machine learning approach, do we risk the AI being trained poorly?
+
+
+Q4:What are my ethical responsibilities to the end user and the organization?
+
+A4: The ethical responsibilities to both the organization and end user is appropriately using and protecting their data. All parties should be aware of what data is being used, how it is being used, and what they can do to have their information removed from the system. When we are creating software, we should not access more data than we need. Any data we do use should be secured as necessary. Any personal information should be stored only as necessary and removed when no longer required. 
